@@ -1,0 +1,20 @@
+header : to show the city names
+sub header : to show the parcel names 
+selected parcel : to show the parcel which is seleted by the user 
+enter parcel : enter block and location group 
+buttons: 
+    add after, add before, replace, delete, refresh, show final 
+
+parcel properties == id, name, sequence, group 
+
+things to be made: 
+    header with the specific property of aligning according to the parcel and city group 
+    header which is having all the parcels 
+    selected parcel tab
+    entering parcel details: name and location
+    showing various buttons : add after, add before, replace, delete, refresh, show final 
+
+
+displayed the data
+added buttons 
+added the box to enter the values 
